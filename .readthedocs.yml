@@ -20,6 +20,3 @@ build:
 
 submodules:
   include: all
-
-import:
-  engine: xelatex
